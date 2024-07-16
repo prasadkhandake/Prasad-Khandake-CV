@@ -1,7 +1,8 @@
 # Prasad-Khandake-CV Data Science Report Card 📊🔍
 ## Summary
 
-Data Science Enthusiast 🌐
+Data Science Enthusiast Strong foundation in data analysis with completion of the Google Data Analytics Professional Certificate. Expertise in utilizing Python, SQL, spreadsheets (Sheets and Excel), Tableau, and R for effective data analysis. Additional comprehensive course completed on generative AI, focusing on
+large language models without fine-tuning. Proven ability in project planning, prompt engineering, and application development.🌐
 
 ## Goals
 - **Objective:** Contribute effectively to organizations leveraging existing skills and knowledge, also assest to be 💼🤝
