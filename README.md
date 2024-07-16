@@ -4,42 +4,37 @@
 Data Science Enthusiast 🌐
 
 ## Goals
-- Objective: Contribute effectively to organizations leveraging existing skills and knowledge, also assest to be 💼🤝
-Skills
-IDE: Google Colab 💻
-Programming Language: Python 🐍
-Libraries: Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn 📊🔮
-Machine Learning: Linear Regression, Logistic Regression, Decision Tree, Random Forest, SVM, KNN, XGBoost and PyCaret 📈🌲
-Deployment (Framework): Streamlit 🚀
-Soft Skills: Team Player, Curious, Collaborative, Communicative, Keen learner 🤝💬📚
-Additional Learnings
-Time Series Analysis (ARIMA)
-Tableau
-MS SQL
+- **Objective:** Contribute effectively to organizations leveraging existing skills and knowledge, also assest to be 💼🤝
 
+## Skills
+- **IDE:** Google Colab 💻
+- **Programming Language:** Python 🐍
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn 📊🔮
+- **Machine Learning:** Linear Regression, Logistic Regression, Decision Tree, Random Forest, SVM, KNN, XGBoost and PyCaret 📈🌲
+- **Deployment (Framework):** Streamlit 🚀
+- **Soft Skills:** Team Player, Curious, Collaborative, Communicative, Keen learner 🤝💬📚
 
-EDUCATION
+## Additional Learnings
+- **Time Series Analysis (ARIMA)**
+- **Tableau**
+- **MS SQL**
+
+## EDUCATION
  
-Master of Technology (M.Tech), Computer Science
-MIT World Peace University
-2020 - 2024
-CGPA: 7.62/10
+**Master of Technology (M.Tech), Computer Science**
+_MIT World Peace University | 2020 - 2024 | CGPA: 7.62/10_
  
-Bachelor of Technology (B.Tech), Information Technology
-Rajarambapu Institute Of Technology
-2014 - 2020
-CGPA: 5.95/10
-Add education
-WORK EXPERIENCE
-(2 YEARS 3 MONTHS)
+**Bachelor of Technology (B.Tech), Information Technology**
+_Rajarambapu Institute Of Technology | 2014 - 2020 | CGPA: 5.95/10_
+
+## WORK EXPERIENCE (2 YEARS 3 MONTHS)
  
-Quantium Data Analytics Job Simulation On Forage - July 2024
-Quantium, Virtual
-Internship • Jul 2024 - Jul 2024 (1 month)
-Completed a job simulation focused on Data Analytics and Commercial Insights for the data science team.
-Developed expertise in data preparation and customer analytics, utilizing transaction datasets to extract valuable insights.
+**Quantium Data Analytics Job Simulation On Forage - July 2024**
+_Quantium, Virtual Internship • Jul 2024 - Jul 2024 (1 month)_
+- Completed a job simulation focused on Data Analytics and Commercial Insights for the data science team.
+- Developed expertise in data preparation and customer analytics, utilizing transaction datasets to extract valuable insights.
  
-Tata Data Visualisation: Empowering Business With Effective Insights Job Simulation On Forage
+**Tata Data Visualisation: Empowering Business With Effective Insights Job Simulation On Forage**
 TATA, Virtual
 Internship • Jun 2024 - Jul 2024 (1 month)
 Completed a simulation involving creating data visualizations for Tata Consultancy Services
