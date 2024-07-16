@@ -3,8 +3,8 @@
 
 Data Science Enthusiast 🌐
 
-Goals
-Objective: Contribute effectively to organizations leveraging existing skills and knowledge, also assest to be 💼🤝
+## Goals
+-Objective: Contribute effectively to organizations leveraging existing skills and knowledge, also assest to be 💼🤝
 Skills
 IDE: Google Colab 💻
 Programming Language: Python 🐍
