@@ -21,7 +21,7 @@ Data Science Enthusiast 🌐
 
 ## EDUCATION
  
-**Master of Technology (M.Tech), Computer Science**
+**Master of Technology (M.Tech), Data Science and Analytics**
 _MIT World Peace University | 2020 - 2024 | CGPA: 7.62/10_
  
 **Bachelor of Technology (B.Tech), Information Technology**
