@@ -155,7 +155,7 @@ Gender Equality Pledge, The Sparks Foundation (Feb 2021)
 
 ## Contact Information
  
-- GitHub link: https://github.com/prasadkhandake 🔗
+- [GitHub Link 🔗](https://github.com/prasadkhandake) 
 - LinkedIn link: https://www.linkedin.com/in/prasad-khandake/ 🔗
 - Blog link: https://www.datascienceandanalytics.com/prasad-khandake-portfolio/ 🔗
 - Kaggle: https://www.kaggle.com/prasadkhandke 📊
