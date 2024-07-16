@@ -30,76 +30,62 @@ _Rajarambapu Institute Of Technology | 2014 - 2020 | CGPA: 5.95/10_
 ## WORK EXPERIENCE (2 YEARS 3 MONTHS)
  
 **Quantium Data Analytics Job Simulation On Forage - July 2024**
+
 _Quantium, Virtual Internship • Jul 2024 - Jul 2024 (1 month)_
 - Completed a job simulation focused on Data Analytics and Commercial Insights for the data science team.
 - Developed expertise in data preparation and customer analytics, utilizing transaction datasets to extract valuable insights.
  
 **Tata Data Visualisation: Empowering Business With Effective Insights Job Simulation On Forage**
-TATA, Virtual
-Internship • Jun 2024 - Jul 2024 (1 month)
-Completed a simulation involving creating data visualizations for Tata Consultancy Services
-Prepared questions for a meeting with client senior leadership
-Created visuals for data analysis to help executives with effective decision making
+
+_TATA, Virtual Internship Jun 2024 - Jul 2024 (1 month)_
+- Completed a simulation involving creating data visualizations for Tata Consultancy Services
+- Prepared questions for a meeting with client senior leadership
+- Created visuals for data analysis to help executives with effective decision making
  
-Teaching Assistant
-MIT-WPU, Virtual
-Job • Aug 2021 - Oct 2021 (3 months)
-Assigned as Teaching Assistant of 3 months for Web Technology Teaching + Laboratory and 3 months for Digital Electronics Laboratory in MIT-WPU.
+**Teaching Assistant**
+
+_MIT-WPU, Virtual Job Aug 2021 - Oct 2021 (3 months)_
+- Assigned as Teaching Assistant of 3 months for Web Technology Teaching + Laboratory and 3 months for Digital Electronics Laboratory in MIT-WPU.
  
-WordPress Developer
-Fauxcode, Virtual
-Job • Nov 2017 - Nov 2019 (2 years)
-I played a key role in developing and maintaining a variety of complex WordPress websites. My responsibilities included:
-Theme and plugin development
-CMS experience
-Search Engine Optimization (SEO)
-Responsive design implementation
-Add job
+**WordPress Developer** 
+
+_Fauxcode, Virtual Job • Nov 2017 - Nov 2019 (2 years)_
+- I played a key role in developing and maintaining a variety of complex WordPress websites.
+- My responsibilities included: Theme and plugin development, CMS experience, Search Engine Optimization (SEO), Responsive design implementation.
+
+## TRAININGS/ COURSES
  
-Add internship
-POSITIONS OF RESPONSIBILITY
+**Generative AI Learning Plan For Developers**
+
+_AWS, Online Jan 2024 - Feb 2024_
+- Successfully finished a comprehensive course on generative AI for software developers, highlighting expertise in large language models without fine-tuning.
+- Explored key areas such as generative AI overview, project planning, Amazon Bedrock initiation, prompt engineering foundations, and architecture patterns for application development with Amazon Bedrock and Langchain.
  
-Guided as Teaching Assistant for 3 months Web Technology Teaching + Laboratory in MIT-WPU.
-Assigned as Teaching Assistant for 3 months for Digital Electronics Laboratory in MIT-WPU.
-Member of the Computer Society of India at RIT from 2019 to 2020.
-Add position of responsibility
-TRAININGS/ COURSES
+**Foundations Of Prompt Engineering**
+
+_AWS, Online Jan 2024 - Feb 2024_
+- Completed course providing in-depth understanding of prompt engineering, encompassing basic and advanced techniques for diverse large language models.
+- Acquired skills to identify and address common prompt misuse issues, enabling proficient application of prompt engineering techniques in interactions with FMs.
  
-Generative AI Learning Plan For Developers
-AWS, Online
-Jan 2024 - Feb 2024
-Successfully finished a comprehensive course on generative AI for software developers, highlighting expertise in large language models without fine-tuning.
-Explored key areas such as generative AI overview, project planning, Amazon Bedrock init...    show more
+**GOOGLE DATA ANALYTICS PROFESSIONAL CERTIFICATE**
+
+_Coursera, Online Mar 2021 - Sep 2021_
+- Gained hands-on experience in key data analytics tasks, including data cleaning, analysis, and visualization. Proficient in tools like spreadsheets, SQL, R programming, and Tableau.
+- Skilled in organizing and analyzing data, and presenting findings through dashboards and presentations.
  
-Foundations Of Prompt Engineering
-AWS, Online
-Jan 2024 - Feb 2024
-Completed course providing in-depth understanding of prompt engineering, encompassing basic and advanced techniques for diverse large language models.
-Acquired skills to identify and address common prompt misuse issues, enabling proficient appl...    show more
+**The 365 Data Science Program**
+_365 Data Science, Online Mar 2020 - May 2020_
+- This course covers foundational mathematics, programming languages including R and Python with a focus on machine learning algorithms and deep learning.
+- Hands-on experience with data visualization tools, including Tableau and Power BI, supplemented by case studies and Excel proficiency. 
  
-GOOGLE DATA ANALYTICS PROFESSIONAL CERTIFICATE
-Coursera, Online
-Mar 2021 - Sep 2021
-Gained hands-on experience in key data analytics tasks, including data cleaning, analysis, and visualization. Proficient in tools like spreadsheets, SQL, R programming, and Tableau.
-Skilled in organizing and analyzing data, and presenting findi...    show more
+**Web Development Course**
+_udemy, Online May 2019 - Sep 2019_
+- Web Development Course
+- The Complete 2019 Web Development Course - Build 15 Projects of 95hrs at Udemy online Training.
+
+## ACADEMICS/ PERSONAL PROJECTS
  
-The 365 Data Science Program
-365 Data Science, Online
-Mar 2020 - May 2020
-This course covers foundational mathematics, programming languages including R and Python with a focus on machine learning algorithms and deep learning.
-Hands-on experience with data visualization tools, including Tableau and Power BI, suppleme...    show more
- 
-Web Development Course
-udemy, Online
-May 2019 - Sep 2019
-Web Development Course
-The Complete 2019 Web Development Course - Build 15 Projects of
-95hrs at Udemy online Training
-Add training/ course
-ACADEMICS/ PERSONAL PROJECTS
- 
-Exploratory and Predictive Analysis of Olympic Data Using Web Scraping
-Nov 2021 - Jan 2022
+**Exploratory and Predictive Analysis of Olympic Data Using Web Scraping** _Nov 2021 - Jan 2022_
 Developed and implemented Python web scraping techniques to collect data
 for ~200 countries across various websites.
 Analyzed medal distribution and discovered a significant correlation between being a host nation and the number of medals won. This translates to an 20-30% increase in medals for host countries.
