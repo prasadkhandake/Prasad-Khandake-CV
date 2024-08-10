@@ -17,7 +17,7 @@ large language models without fine-tuning. Proven ability in project planning, p
 
 ## Additional Learnings
 - **MS-Excel**
-- **Time Series Analysis (ARIMA)**
+- **Time Series Analysis**
 - **MS Power BI**
 - **Tableau**
 - **MS SQL**
