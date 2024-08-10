@@ -1,8 +1,8 @@
 # Prasad-Khandake-CV Data Science Report Card 📊🔍
 ## Summary
 
-Data Science Enthusiast Strong foundation in data analysis with completion of the Google Data Analytics Professional Certificate. Expertise in utilizing Python, SQL, spreadsheets (Sheets and Excel), Tableau, and R for effective data analysis. Additional comprehensive course completed on generative AI, focusing on
-large language models without fine-tuning. Proven ability in project planning, prompt engineering, and application development.🌐
+A motivated and energetic Data Science Fresher with hands-on experience in collecting, analyzing, and interpreting large data sets, and developing new forecast models. Recently participated in British Airway's virtual job simulation on the Forage platform, gaining valuable insights into working within a Data Science team at British Airways. 
+Certified in Google Data Analytics Professional and 365 Data Science. Proficient in Python, Machine Learning, Deep Learning, NLP, SQL, Excel, Power BI, data visualization, and Tableau. Seeking to leverage my knowledge and internship experience to effectively contribute to organizational goals in a dynamic and fast-paced company.🌐
 
 ## Goals
 - **Objective:** Contribute effectively to organizations leveraging existing skills and knowledge, also assest to be 💼🤝
